@@ -17,7 +17,7 @@ The website includes sections such as:
 - JavaScript
 
 ## 🌐 Live Link
-🔗 
+🔗 https://zainab-akram-cv.vercel.app/
 
 ## 👩‍💻 Student Information
 - **Name:** Zainab Akram  
@@ -27,3 +27,4 @@ The website includes sections such as:
 This repository is created solely for academic submission and learning purposes.
 
 ---
+
